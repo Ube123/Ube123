@@ -1,5 +1,4 @@
-![Screenshot_20250915_211321_Chrome](https://github.com/user-attachments/assets/bd131ce8-f84c-44a2-9ad3-333f89a69979)
-## Hi there 👋
+
 
 <!--
 **Ube123/Ube123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
